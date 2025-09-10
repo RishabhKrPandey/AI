@@ -122,11 +122,10 @@ Through **feature engineering**, we’ve created even more powerful predictors f
    - **Fare / Cabin:** Having a **cabin** (higher fare) strongly correlated with survival — proxy for **wealth/class**.  
    - **Port of Embarkation:** Passengers from **Cherbourg ('C')** had higher survival, likely due to more **1st class travelers**.
 
-📷 *Add final summary visualization here*
+<img width="846" height="650" alt="image" src="https://github.com/user-attachments/assets/9b5f038b-c35b-425c-9ac9-aa9600e3b5b3" />
+
 
 ---
 
-## 🚀 Next Steps
-The insights gained here form a strong foundation for the **next stage** in the pipeline:  
-➡️ Building a **predictive machine learning model** to forecast survival on the Titanic.
+
 
