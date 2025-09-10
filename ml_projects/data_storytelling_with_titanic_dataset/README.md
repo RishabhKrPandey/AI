@@ -18,7 +18,8 @@ Perform a comprehensive, step-by-step exploratory data analysis to understand th
 - **Age:** Ranges from ~5 months to 80 years, with an **average of ~30 years**.  
 - **Fare:** Highly skewed — mean of **$32**, median of **$14.45**, and a max fare of **$512+**, showing extreme outliers.
 
-📷 *Add dataset info/describe image here*
+<img width="608" height="316" alt="image" src="https://github.com/user-attachments/assets/22c3c354-eafb-444e-98c8-826f5428bd91" />
+
 
 ---
 
@@ -29,7 +30,8 @@ Perform a comprehensive, step-by-step exploratory data analysis to understand th
 - For **categorical data** → use **mode**.  
 - If a feature has **too many missing values** → either **drop it** or apply **feature engineering**.
 
-📷 *Add missing values visualization here*
+<img width="841" height="237" alt="image" src="https://github.com/user-attachments/assets/97978b02-fb99-4ab8-a7dd-d2f07292d724" />
+
 
 ---
 
@@ -41,7 +43,8 @@ Perform a comprehensive, step-by-step exploratory data analysis to understand th
 - **Embarked:** Majority embarked from **Southampton ('S')**.  
 - **SibSp & Parch:** Most passengers traveled **alone**.
 
-📷 *Add categorical plots here*
+<img width="845" height="570" alt="image" src="https://github.com/user-attachments/assets/0639baa6-8088-46ba-8445-faa422e7993e" />
+
 
 ---
 
@@ -51,7 +54,8 @@ Perform a comprehensive, step-by-step exploratory data analysis to understand th
   - Missing values were filled with the median (**28**).  
 - **Fare:** Distribution is **heavily right-skewed**, with most tickets cheap but a few very expensive ones.
 
-📷 *Add numerical plots here*
+<img width="840" height="344" alt="image" src="https://github.com/user-attachments/assets/2435a0e4-b2a4-4d3c-9639-03663656c1c8" />
+
 
 ---
 
@@ -66,7 +70,8 @@ Perform a comprehensive, step-by-step exploratory data analysis to understand th
 - **Embarked:** Passengers from **Cherbourg ('C')** had higher survival rates.  
 - **Has_Cabin:** Passengers with a **cabin** had much higher survival — correlated with **1st class**.
 
-📷 *Add bivariate plots here*
+<img width="831" height="592" alt="image" src="https://github.com/user-attachments/assets/f3bcaddf-705e-4ef4-b548-49734cc14436" />
+
 
 ---
 
@@ -76,7 +81,8 @@ Perform a comprehensive, step-by-step exploratory data analysis to understand th
 - A large portion of **non-survivors were young adults (20–40)**.  
 - The **oldest passenger (80 years)** did not survive.
 
-📷 *Add age vs survival plot here*
+<img width="838" height="416" alt="image" src="https://github.com/user-attachments/assets/f288fcd5-26bc-4bce-b73f-d6820107388f" />
+
 
 ---
 
@@ -86,7 +92,8 @@ Perform a comprehensive, step-by-step exploratory data analysis to understand th
 - **Small families (2–4 members)** had the **highest survival rate**.  
 - **Large families (5+)** had very poor survival rates — likely harder to stay together during evacuation.
 
-📷 *Add family size vs survival plot here*
+<img width="845" height="336" alt="image" src="https://github.com/user-attachments/assets/bb8af712-faf1-4cc4-bc20-dd1fa12d216a" />
+
 
 ---
 
@@ -99,7 +106,8 @@ Perform a comprehensive, step-by-step exploratory data analysis to understand th
 - **Females:**  
   - Distribution of survivors was **much broader**, indicating females of **most ages** had good survival chances.
 
-📷 *Add violin plot here*
+<img width="846" height="513" alt="image" src="https://github.com/user-attachments/assets/f21b9ebf-ab7f-4982-8e1d-6fe53977c53e" />
+
 
 ---
 
